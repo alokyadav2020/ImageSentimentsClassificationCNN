@@ -1,0 +1,10 @@
+opencv-python
+matplotlib
+Flask
+Flask-Cors
+numpy
+Pillow
+tensorflow
+
+-e .
+
